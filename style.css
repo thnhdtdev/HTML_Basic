@@ -1,0 +1,21 @@
+.img {
+    width: 160px;
+    height: 160px;
+    margin-left: 40px;
+    border-radius: 50% 50%;
+    border-bottom: 20px;
+}
+
+.gioithieu {
+    color: white;
+}
+
+.text {
+    line-height: 25px;
+    color: white;
+}
+
+.content .profile {
+    margin-top: 187px;
+    margin-left: 50px;
+}
